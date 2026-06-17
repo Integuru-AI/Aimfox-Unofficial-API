@@ -4,8 +4,8 @@ Unofficial Python integrations for Aimfox.
 
 ## Integrations
 
-- `aimfox_list_campaign_targets.py` - `list_campaign_targets` (16 live events).
-- `aimfox_list_inbox_conversations.py` - `list_inbox_conversations` (2 live events).
+- `aimfox_list_campaign_targets.py` - `list_campaign_targets`.
+- `aimfox_list_inbox_conversations.py` - `list_inbox_conversations`.
 
 ## Usage
 
