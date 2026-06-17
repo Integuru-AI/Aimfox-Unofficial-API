@@ -4,8 +4,8 @@ Unofficial Python integrations for Aimfox.
 
 ## Integrations
 
-- `aimfox_list_campaign_targets.py` - `list_campaign_targets` (16 live events).
-- `aimfox_list_inbox_conversations.py` - `list_inbox_conversations` (2 live events).
+- `aimfox_list_campaign_targets.py` - `list_campaign_targets`.
+- `aimfox_list_inbox_conversations.py` - `list_inbox_conversations`.
 
 ## Usage
 
@@ -20,8 +20,8 @@ pip install -r requirements.txt
 
 ## Info
 
-This unofficial API is built by [Integuru.ai](https://integuru.ai/).
+This unofficial API is built by [Integuru](https://integuru.com).
 
-For custom requests or hosted authentication, contact richard@taiki.online.
+For custom requests or hosted authentication, contact richard@integuru.com or [schedule time with us](https://calendly.com/d/cqb8-d9x-nbf/integuru).
 
 See the [complete list of APIs by Integuru](https://github.com/Integuru-AI/APIs-by-Integuru).
